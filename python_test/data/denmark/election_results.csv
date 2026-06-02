@@ -1,0 +1,989 @@
+party,municipality,year,pop_pct
+Other,Copenhagen,2022,0.0015142959021801
+Other,Frederiksberg,2022,0.001229205535306
+Other,Ballerup,2022,0.0012686387789308
+Other,Brøndby,2022,0.0013839913157743
+Other,Dragør,2022,0.0011697135959617
+Other,Gentofte,2022,0.0010175696439307
+Other,Gladsaxe,2022,0.001085497524357
+Other,Glostrup,2022,0.0007561043802422
+Other,Herlev,2022,0.0008690944757324
+Other,Albertslund,2022,0.0015933105504253
+Other,Hvidovre,2022,0.0011836839191806
+Other,Høje-Taastrup,2022,0.0008141881897826
+Other,Lyngby-Taarbæk,2022,0.0010455471182101
+Other,Rødovre,2022,0.0011060775919141
+Other,Ishøj,2022,0.0010439290036304
+Other,Tårnby,2022,0.0010802142509332
+Other,Vallensbæk,2022,0.0004846036763844
+Other,Furesø,2022,0.0008900167852289
+Other,Allerød,2022,0.0006640038614697
+Other,Fredensborg,2022,0.0009578056633368
+Other,Helsingør,2022,0.0009758909581366
+Other,Hillerød,2022,0.0006855346295899
+Other,Hørsholm,2022,0.0003896925183617
+Other,Rudersdal,2022,0.0006840962160641
+Other,Egedal,2022,0.0005083698541561
+Other,Frederikssund,2022,0.0006670947802197
+Other,Greve,2022,0.0007119620467637
+Other,Køge,2022,0.0009703397954835
+Other,Halsnæs,2022,0.0008944304058583
+Other,Roskilde,2022,0.0009812232783293
+Other,Solrød,2022,0.0007732181571815
+Other,Gribskov,2022,0.0014004219091387
+Other,Odsherred,2022,0.002240441039058
+Other,Holbæk,2022,0.0012357729766035
+Other,Faxe,2022,0.0018322651933701
+Other,Kalundborg,2022,0.0020870409356724
+Other,Ringsted,2022,0.0017189653512992
+Other,Slagelse,2022,0.001486916502301
+Other,Stevns,2022,0.0019162572015098
+Other,Sorø,2022,0.0017896533333333
+Other,Lejre,2022,0.0009140702154213
+Other,Lolland,2022,0.0016554371002132
+Other,Næstved,2022,0.0013072121386727
+Other,Guldborgsund,2022,0.0014994816311339
+Other,Vordingborg,2022,0.0024288381164669
+Other,Bornholm,2022,0.0014894777390316
+Other,Middelfart,2022,0.000707936197662
+Other,Assens,2022,0.0011946670861682
+Other,Faaborg-Midtfyn,2022,0.0008575042158515
+Other,Kerteminde,2022,0.0006158070428066
+Other,Nyborg,2022,0.0007875321463896
+Other,Odense,2022,0.0007661227911775
+Other,Svendborg,2022,0.0014777159141883
+Other,Nordfyns,2022,0.0005048630398082
+Other,Langeland,2022,0.0016270243417783
+Other,Ærø,2022,0.0012864329268292
+Other,Haderslev,2022,0.0005028899984868
+Other,Billund,2022,0.0007085768082067
+Other,Sønderborg,2022,0.0005509037255624
+Other,Tønder,2022,0.000844506831368
+Other,Esbjerg,2022,0.0007037848547536
+Other,Fanø,2022,0.0015339558573853
+Other,Varde,2022,0.0003959953434225
+Other,Vejen,2022,0.0012419168820838
+Other,Aabenraa,2022,0.000881468697929
+Other,Fredericia,2022,0.0006619993487463
+Other,Horsens,2022,0.0007227104336767
+Other,Kolding,2022,0.0005416656185427
+Other,Vejle,2022,0.0006483429251834
+Other,Herning,2022,0.000927071436466
+Other,Holstebro,2022,0.0008225731090588
+Other,Lemvig,2022,0.0008967444081827
+Other,Struer,2022,0.0005819646098003
+Other,Syddjurs,2022,0.0009470072055361
+Other,Norddjurs,2022,0.0011476882430646
+Other,Favrskov,2022,0.0008154801215163
+Other,Odder,2022,0.0011607863904149
+Other,Randers,2022,0.0007384115775975
+Other,Silkeborg,2022,0.0016886128766192
+Other,Samsø,2022,0.001381081081081
+Other,Skanderborg,2022,0.0008185169638006
+Other,Aarhus,2022,0.0007788594400496
+Other,Ikast-Brande,2022,0.0007618169848584
+Other,Ringkøbing-Skjern,2022,0.0006802955954514
+Other,Hedensted,2022,0.0007650401229297
+Other,Morsø,2022,0.0003294469828265
+Other,Skive,2022,0.0007368153446945
+Other,Thisted,2022,0.0004417008885238
+Other,Viborg,2022,0.0008727646454264
+Other,Brønderslev,2022,0.0007134025629694
+Other,Frederikshavn,2022,0.0006786947229985
+Other,Vesthimmerlands,2022,0.0006027896800072
+Other,Rebild,2022,0.000774531274211
+Other,Mariagerfjord,2022,0.000864256198347
+Other,Jammerbugt,2022,0.0007327148558028
+Other,Aalborg,2022,0.000935909475068
+Other,Hjørring,2022,0.0010457835549878
+Other - Left,Copenhagen,2022,0.29931334072691
+Other - Left,Frederiksberg,2022,0.24120794773583712
+Other - Left,Ballerup,2022,0.10815883171070909
+Other - Left,Brøndby,2022,0.12282922927498119
+Other - Left,Dragør,2022,0.0838294743772629
+Other - Left,Gentofte,2022,0.1343391453448233
+Other - Left,Gladsaxe,2022,0.1581503433956233
+Other - Left,Glostrup,2022,0.09237075178626859
+Other - Left,Herlev,2022,0.1198839144466236
+Other - Left,Albertslund,2022,0.16342813931505829
+Other - Left,Hvidovre,2022,0.1219758095765289
+Other - Left,Høje-Taastrup,2022,0.11256905601699059
+Other - Left,Lyngby-Taarbæk,2022,0.1476006517121989
+Other - Left,Rødovre,2022,0.1279125215165287
+Other - Left,Ishøj,2022,0.1366801331181925
+Other - Left,Tårnby,2022,0.0966454187631873
+Other - Left,Vallensbæk,2022,0.1034144245404515
+Other - Left,Furesø,2022,0.1586365917992163
+Other - Left,Allerød,2022,0.126935404850971
+Other - Left,Fredensborg,2022,0.12547254189713508
+Other - Left,Helsingør,2022,0.1284272500907812
+Other - Left,Hillerød,2022,0.1212605292878724
+Other - Left,Hørsholm,2022,0.0816127474169049
+Other - Left,Rudersdal,2022,0.1420639808693202
+Other - Left,Egedal,2022,0.0856285473094327
+Other - Left,Frederikssund,2022,0.0771219574175821
+Other - Left,Greve,2022,0.0632507082344965
+Other - Left,Køge,2022,0.0628238602471235
+Other - Left,Halsnæs,2022,0.0893152648135731
+Other - Left,Roskilde,2022,0.1160756475036214
+Other - Left,Solrød,2022,0.0541252710027097
+Other - Left,Gribskov,2022,0.08539390868680741
+Other - Left,Odsherred,2022,0.0702648663801156
+Other - Left,Holbæk,2022,0.06916583902384389
+Other - Left,Faxe,2022,0.0496177414364638
+Other - Left,Kalundborg,2022,0.0531246783625728
+Other - Left,Ringsted,2022,0.0747550048123192
+Other - Left,Slagelse,2022,0.054711768573306604
+Other - Left,Stevns,2022,0.0641946162505791
+Other - Left,Sorø,2022,0.07547862933333299
+Other - Left,Lejre,2022,0.1012693580769437
+Other - Left,Lolland,2022,0.0374583218361969
+Other - Left,Næstved,2022,0.056975319312397604
+Other - Left,Guldborgsund,2022,0.04843977617098161
+Other - Left,Vordingborg,2022,0.0792842156589576
+Other - Left,Bornholm,2022,0.0737456978347252
+Other - Left,Middelfart,2022,0.06539982016497871
+Other - Left,Christiansø,2022,0.203901694915254
+Other - Left,Assens,2022,0.0572776497423995
+Other - Left,Faaborg-Midtfyn,2022,0.0697956461750725
+Other - Left,Kerteminde,2022,0.061468739363790596
+Other - Left,Nyborg,2022,0.06577965875370881
+Other - Left,Odense,2022,0.1255841803172962
+Other - Left,Svendborg,2022,0.12045623664142249
+Other - Left,Nordfyns,2022,0.0394252137450304
+Other - Left,Langeland,2022,0.0639623944361647
+Other - Left,Ærø,2022,0.1007705792682923
+Other - Left,Haderslev,2022,0.0496352428506579
+Other - Left,Billund,2022,0.0334121218023629
+Other - Left,Sønderborg,2022,0.0501892290667647
+Other - Left,Tønder,2022,0.0313235261089272
+Other - Left,Esbjerg,2022,0.05519343259229
+Other - Left,Fanø,2022,0.1384395161290319
+Other - Left,Varde,2022,0.034819304839513995
+Other - Left,Vejen,2022,0.0369889838934178
+Other - Left,Aabenraa,2022,0.0421146155677217
+Other - Left,Fredericia,2022,0.0613276196678603
+Other - Left,Horsens,2022,0.07208652155482209
+Other - Left,Kolding,2022,0.0691676902344799
+Other - Left,Vejle,2022,0.0745714427465763
+Other - Left,Herning,2022,0.0442480197472641
+Other - Left,Holstebro,2022,0.043948906112576694
+Other - Left,Lemvig,2022,0.039525734299132
+Other - Left,Struer,2022,0.0384743269812459
+Other - Left,Syddjurs,2022,0.10493450809731011
+Other - Left,Norddjurs,2022,0.054873844121532
+Other - Left,Favrskov,2022,0.0775288601241576
+Other - Left,Odder,2022,0.1060958760839342
+Other - Left,Randers,2022,0.060084823554881595
+Other - Left,Silkeborg,2022,0.08193993983795039
+Other - Left,Samsø,2022,0.1280952702702699
+Other - Left,Skanderborg,2022,0.10846455874364119
+Other - Left,Aarhus,2022,0.1928463647055137
+Other - Left,Ikast-Brande,2022,0.0399261356155362
+Other - Left,Ringkøbing-Skjern,2022,0.0301597713983483
+Other - Left,Hedensted,2022,0.0414298651186611
+Other - Left,Morsø,2022,0.0328129194895223
+Other - Left,Skive,2022,0.0364576232554873
+Other - Left,Thisted,2022,0.0505116516090491
+Other - Left,Viborg,2022,0.052938183411116405
+Other - Left,Brønderslev,2022,0.0396126159964645
+Other - Left,Frederikshavn,2022,0.0301114225437007
+Other - Left,Vesthimmerlands,2022,0.0282557662503415
+Other - Left,Læsø,2022,0.044992682926829
+Other - Left,Rebild,2022,0.0672475388667936
+Other - Left,Mariagerfjord,2022,0.0448132843587386
+Other - Left,Jammerbugt,2022,0.0342980334882953
+Other - Left,Aalborg,2022,0.0988984599492907
+Other - Left,Hjørring,2022,0.0449686928644773
+Other - Right,Copenhagen,2022,0.061302068423342904
+Other - Right,Frederiksberg,2022,0.09960617161920032
+Other - Right,Ballerup,2022,0.1027597410933985
+Other - Right,Brøndby,2022,0.1013773638804773
+Other - Right,Dragør,2022,0.15401229013497167
+Other - Right,Gentofte,2022,0.1690961320061457
+Other - Right,Gladsaxe,2022,0.08980830538252639
+Other - Right,Glostrup,2022,0.110013187325256
+Other - Right,Herlev,2022,0.10700086692400139
+Other - Right,Albertslund,2022,0.0872337526357882
+Other - Right,Hvidovre,2022,0.1039669042347077
+Other - Right,Høje-Taastrup,2022,0.1377184245458336
+Other - Right,Lyngby-Taarbæk,2022,0.13046387943324292
+Other - Right,Rødovre,2022,0.1002249017963539
+Other - Right,Ishøj,2022,0.09701083098023361
+Other - Right,Tårnby,2022,0.10822396526537849
+Other - Right,Vallensbæk,2022,0.14935485306170201
+Other - Right,Furesø,2022,0.11032648069698629
+Other - Right,Allerød,2022,0.1259947327138889
+Other - Right,Fredensborg,2022,0.12316671344836079
+Other - Right,Helsingør,2022,0.11944905327592421
+Other - Right,Hillerød,2022,0.11287591343365559
+Other - Right,Hørsholm,2022,0.1682914975725129
+Other - Right,Rudersdal,2022,0.14837286819524512
+Other - Right,Egedal,2022,0.1176558481212726
+Other - Right,Frederikssund,2022,0.1257328640109887
+Other - Right,Greve,2022,0.107620182988817
+Other - Right,Køge,2022,0.1058573018747334
+Other - Right,Halsnæs,2022,0.1105260430096432
+Other - Right,Roskilde,2022,0.09502534186071121
+Other - Right,Solrød,2022,0.11794550813008091
+Other - Right,Gribskov,2022,0.1357454418744817
+Other - Right,Odsherred,2022,0.1124083348906743
+Other - Right,Holbæk,2022,0.0986371521325418
+Other - Right,Faxe,2022,0.1230549303867399
+Other - Right,Kalundborg,2022,0.12424669674185429
+Other - Right,Ringsted,2022,0.13659778152069268
+Other - Right,Slagelse,2022,0.10224240631163659
+Other - Right,Stevns,2022,0.1282201509833782
+Other - Right,Sorø,2022,0.1176249653333332
+Other - Right,Lejre,2022,0.10574349123663751
+Other - Right,Lolland,2022,0.10422761821146338
+Other - Right,Næstved,2022,0.1223996926918272
+Other - Right,Guldborgsund,2022,0.1387346483066614
+Other - Right,Vordingborg,2022,0.1035147673446639
+Other - Right,Bornholm,2022,0.1158813680966666
+Other - Right,Middelfart,2022,0.10703321083701421
+Other - Right,Christiansø,2022,0.1097932203389827
+Other - Right,Assens,2022,0.10635855586581171
+Other - Right,Faaborg-Midtfyn,2022,0.1021469415912921
+Other - Right,Kerteminde,2022,0.12764000523628719
+Other - Right,Nyborg,2022,0.09442095944609251
+Other - Right,Odense,2022,0.09114862633819121
+Other - Right,Svendborg,2022,0.08581947119824761
+Other - Right,Nordfyns,2022,0.1135941839568694
+Other - Right,Langeland,2022,0.08897789369100809
+Other - Right,Ærø,2022,0.10441547256097518
+Other - Right,Haderslev,2022,0.1357551550915414
+Other - Right,Billund,2022,0.11348130112972302
+Other - Right,Sønderborg,2022,0.11684857985982988
+Other - Right,Tønder,2022,0.13423819951338178
+Other - Right,Esbjerg,2022,0.114072789254392
+Other - Right,Fanø,2022,0.118881578947368
+Other - Right,Varde,2022,0.129037911192416
+Other - Right,Vejen,2022,0.1412764366673291
+Other - Right,Aabenraa,2022,0.13714183825279672
+Other - Right,Fredericia,2022,0.11013021165744019
+Other - Right,Horsens,2022,0.10299392520780701
+Other - Right,Kolding,2022,0.1220703656454941
+Other - Right,Vejle,2022,0.1081411986505255
+Other - Right,Herning,2022,0.1191365361234938
+Other - Right,Holstebro,2022,0.0952539660290234
+Other - Right,Lemvig,2022,0.1111273262755707
+Other - Right,Struer,2022,0.1019084694494853
+Other - Right,Syddjurs,2022,0.0990386245273594
+Other - Right,Norddjurs,2022,0.10078137384412109
+Other - Right,Favrskov,2022,0.12185602958658001
+Other - Right,Odder,2022,0.0936174223869726
+Other - Right,Randers,2022,0.100341928822422
+Other - Right,Silkeborg,2022,0.1131229909595197
+Other - Right,Samsø,2022,0.1788499999999998
+Other - Right,Skanderborg,2022,0.09563375228406311
+Other - Right,Aarhus,2022,0.0734890330774009
+Other - Right,Ikast-Brande,2022,0.1285739302172477
+Other - Right,Ringkøbing-Skjern,2022,0.1355803925601618
+Other - Right,Hedensted,2022,0.1257314017415055
+Other - Right,Morsø,2022,0.0712923270836612
+Other - Right,Skive,2022,0.0949018163966614
+Other - Right,Thisted,2022,0.08950753005301229
+Other - Right,Viborg,2022,0.18279411655687117
+Other - Right,Brønderslev,2022,0.0904143879805563
+Other - Right,Frederikshavn,2022,0.09393134966299489
+Other - Right,Vesthimmerlands,2022,0.10458400948126499
+Other - Right,Læsø,2022,0.1571282926829265
+Other - Right,Rebild,2022,0.0932171168844581
+Other - Right,Mariagerfjord,2022,0.08969058769513291
+Other - Right,Jammerbugt,2022,0.09134511869008899
+Other - Right,Aalborg,2022,0.07301301530660109
+Other - Right,Hjørring,2022,0.1006252936609308
+M: Moderaterne,Copenhagen,2022,0.0764801347689975
+M: Moderaterne,Frederiksberg,2022,0.0922174306542286
+M: Moderaterne,Ballerup,2022,0.0785670946114617
+M: Moderaterne,Brøndby,2022,0.0577383877049648
+M: Moderaterne,Dragør,2022,0.1247694502359266
+M: Moderaterne,Gentofte,2022,0.1289320595898189
+M: Moderaterne,Gladsaxe,2022,0.0903621306500558
+M: Moderaterne,Glostrup,2022,0.0881491689965827
+M: Moderaterne,Herlev,2022,0.0792920901094728
+M: Moderaterne,Albertslund,2022,0.0540018468697738
+M: Moderaterne,Hvidovre,2022,0.0790813589814558
+M: Moderaterne,Høje-Taastrup,2022,0.0741815906246443
+M: Moderaterne,Lyngby-Taarbæk,2022,0.1185803438945622
+M: Moderaterne,Rødovre,2022,0.0781747098027099
+M: Moderaterne,Ishøj,2022,0.0622629084308188
+M: Moderaterne,Tårnby,2022,0.071699220905697
+M: Moderaterne,Vallensbæk,2022,0.0990529914529914
+M: Moderaterne,Furesø,2022,0.1026011350011988
+M: Moderaterne,Allerød,2022,0.1109439785205743
+M: Moderaterne,Fredensborg,2022,0.10195309171964
+M: Moderaterne,Helsingør,2022,0.0910831560927529
+M: Moderaterne,Hillerød,2022,0.103357528768963
+M: Moderaterne,Hørsholm,2022,0.1252583094734221
+M: Moderaterne,Rudersdal,2022,0.1139146884231255
+M: Moderaterne,Egedal,2022,0.1041205007543644
+M: Moderaterne,Frederikssund,2022,0.0849240659340658
+M: Moderaterne,Greve,2022,0.1064525652321247
+M: Moderaterne,Køge,2022,0.0974853003834681
+M: Moderaterne,Halsnæs,2022,0.0769636068279098
+M: Moderaterne,Roskilde,2022,0.1106635878590862
+M: Moderaterne,Solrød,2022,0.1216926422764227
+M: Moderaterne,Gribskov,2022,0.1202453175619678
+M: Moderaterne,Odsherred,2022,0.0824714072136049
+M: Moderaterne,Holbæk,2022,0.0912974096048359
+M: Moderaterne,Faxe,2022,0.0897077038674033
+M: Moderaterne,Kalundborg,2022,0.0763260685045948
+M: Moderaterne,Ringsted,2022,0.0876672329162656
+M: Moderaterne,Slagelse,2022,0.0786207100591715
+M: Moderaterne,Stevns,2022,0.0940656843917621
+M: Moderaterne,Sorø,2022,0.0872008586666666
+M: Moderaterne,Lejre,2022,0.1028088447555482
+M: Moderaterne,Lolland,2022,0.0575507838956478
+M: Moderaterne,Næstved,2022,0.0890179583213291
+M: Moderaterne,Guldborgsund,2022,0.0748219602318039
+M: Moderaterne,Vordingborg,2022,0.0962282529952632
+M: Moderaterne,Bornholm,2022,0.0494837604411644
+M: Moderaterne,Middelfart,2022,0.0916608819734938
+M: Moderaterne,Christiansø,2022,0.0627389830508474
+M: Moderaterne,Assens,2022,0.0688260982420261
+M: Moderaterne,Faaborg-Midtfyn,2022,0.0816707803158055
+M: Moderaterne,Kerteminde,2022,0.0797750032726796
+M: Moderaterne,Nyborg,2022,0.0760175766567754
+M: Moderaterne,Odense,2022,0.0894698181349155
+M: Moderaterne,Svendborg,2022,0.0807594136739055
+M: Moderaterne,Nordfyns,2022,0.0741689702118389
+M: Moderaterne,Langeland,2022,0.0660978638847491
+M: Moderaterne,Ærø,2022,0.0701105945121951
+M: Moderaterne,Haderslev,2022,0.0684433287940686
+M: Moderaterne,Billund,2022,0.0720023048954681
+M: Moderaterne,Sønderborg,2022,0.0695278495020287
+M: Moderaterne,Tønder,2022,0.1036824068875163
+M: Moderaterne,Esbjerg,2022,0.0717144838437108
+M: Moderaterne,Fanø,2022,0.0843675721561969
+M: Moderaterne,Varde,2022,0.0713357325794112
+M: Moderaterne,Vejen,2022,0.0700843905348976
+M: Moderaterne,Aabenraa,2022,0.0669916210426088
+M: Moderaterne,Fredericia,2022,0.0823791989579941
+M: Moderaterne,Horsens,2022,0.0767456973293768
+M: Moderaterne,Kolding,2022,0.0856884916000359
+M: Moderaterne,Vejle,2022,0.0873702123437189
+M: Moderaterne,Herning,2022,0.0664977342224514
+M: Moderaterne,Holstebro,2022,0.0442779353562005
+M: Moderaterne,Lemvig,2022,0.0407673804027699
+M: Moderaterne,Struer,2022,0.045328576830006
+M: Moderaterne,Syddjurs,2022,0.0704145680245416
+M: Moderaterne,Norddjurs,2022,0.0482387714663143
+M: Moderaterne,Favrskov,2022,0.0740339453176595
+M: Moderaterne,Odder,2022,0.0758573906136228
+M: Moderaterne,Randers,2022,0.0545604110113744
+M: Moderaterne,Silkeborg,2022,0.0819399398379505
+M: Moderaterne,Samsø,2022,0.052481081081081
+M: Moderaterne,Skanderborg,2022,0.0882892216899599
+M: Moderaterne,Aarhus,2022,0.0794129689169912
+M: Moderaterne,Ikast-Brande,2022,0.0625382488479262
+M: Moderaterne,Ringkøbing-Skjern,2022,0.0548771780330855
+M: Moderaterne,Hedensted,2022,0.0774750247567013
+M: Moderaterne,Morsø,2022,0.0429598865605797
+M: Moderaterne,Skive,2022,0.043884721930009
+M: Moderaterne,Thisted,2022,0.0460315425968789
+M: Moderaterne,Viborg,2022,0.0472723670244131
+M: Moderaterne,Brønderslev,2022,0.0491496818382677
+M: Moderaterne,Frederikshavn,2022,0.0500650473998574
+M: Moderaterne,Vesthimmerlands,2022,0.0388422600054699
+M: Moderaterne,Læsø,2022,0.0526068292682926
+M: Moderaterne,Rebild,2022,0.0571330716388616
+M: Moderaterne,Mariagerfjord,2022,0.0437889807162534
+M: Moderaterne,Jammerbugt,2022,0.0481498333813304
+M: Moderaterne,Aalborg,2022,0.060520133345854
+M: Moderaterne,Hjørring,2022,0.0529166478823852
+Æ: Danmarksdemokraterne,Copenhagen,2022,0.0128024707649544
+Æ: Danmarksdemokraterne,Frederiksberg,2022,0.0140480632606412
+Æ: Danmarksdemokraterne,Ballerup,2022,0.0363184729503227
+Æ: Danmarksdemokraterne,Brøndby,2022,0.0396600011426612
+Æ: Danmarksdemokraterne,Dragør,2022,0.0412324042576538
+Æ: Danmarksdemokraterne,Gentofte,2022,0.0149044024316921
+Æ: Danmarksdemokraterne,Gladsaxe,2022,0.0259411755310653
+Æ: Danmarksdemokraterne,Glostrup,2022,0.0410186626281453
+Æ: Danmarksdemokraterne,Herlev,2022,0.0351216414604821
+Æ: Danmarksdemokraterne,Albertslund,2022,0.0308419399403766
+Æ: Danmarksdemokraterne,Hvidovre,2022,0.0375115070578466
+Æ: Danmarksdemokraterne,Høje-Taastrup,2022,0.0448708157924678
+Æ: Danmarksdemokraterne,Lyngby-Taarbæk,2022,0.0157852113700502
+Æ: Danmarksdemokraterne,Rødovre,2022,0.0334320872136646
+Æ: Danmarksdemokraterne,Ishøj,2022,0.0450380798709156
+Æ: Danmarksdemokraterne,Tårnby,2022,0.047293130173673
+Æ: Danmarksdemokraterne,Vallensbæk,2022,0.0418697576396206
+Æ: Danmarksdemokraterne,Furesø,2022,0.0212536008312684
+Æ: Danmarksdemokraterne,Allerød,2022,0.0324808555568962
+Æ: Danmarksdemokraterne,Fredensborg,2022,0.0347293238669197
+Æ: Danmarksdemokraterne,Helsingør,2022,0.0393826217772474
+Æ: Danmarksdemokraterne,Hillerød,2022,0.0388118067214065
+Æ: Danmarksdemokraterne,Hørsholm,2022,0.0264990912485994
+Æ: Danmarksdemokraterne,Rudersdal,2022,0.0180652074834715
+Æ: Danmarksdemokraterne,Egedal,2022,0.048549321071916
+Æ: Danmarksdemokraterne,Frederikssund,2022,0.058559320054945
+Æ: Danmarksdemokraterne,Greve,2022,0.051716923076923
+Æ: Danmarksdemokraterne,Køge,2022,0.0598225766936514
+Æ: Danmarksdemokraterne,Halsnæs,2022,0.0661026661853436
+Æ: Danmarksdemokraterne,Roskilde,2022,0.0397088795448923
+Æ: Danmarksdemokraterne,Solrød,2022,0.0534710094850947
+Æ: Danmarksdemokraterne,Gribskov,2022,0.0674748738039629
+Æ: Danmarksdemokraterne,Odsherred,2022,0.0786472061296953
+Æ: Danmarksdemokraterne,Holbæk,2022,0.0639606134557259
+Æ: Danmarksdemokraterne,Faxe,2022,0.0873990497237568
+Æ: Danmarksdemokraterne,Kalundborg,2022,0.0907185196324143
+Æ: Danmarksdemokraterne,Ringsted,2022,0.0660402502406159
+Æ: Danmarksdemokraterne,Slagelse,2022,0.0735685733070348
+Æ: Danmarksdemokraterne,Stevns,2022,0.0878660287398185
+Æ: Danmarksdemokraterne,Sorø,2022,0.0732415626666666
+Æ: Danmarksdemokraterne,Lejre,2022,0.0642254598730261
+Æ: Danmarksdemokraterne,Lolland,2022,0.0809541201555248
+Æ: Danmarksdemokraterne,Næstved,2022,0.0679750312109862
+Æ: Danmarksdemokraterne,Guldborgsund,2022,0.0719533866765909
+Æ: Danmarksdemokraterne,Vordingborg,2022,0.0612703329618277
+Æ: Danmarksdemokraterne,Bornholm,2022,0.0524627159192279
+Æ: Danmarksdemokraterne,Middelfart,2022,0.0889976934203839
+Æ: Danmarksdemokraterne,Christiansø,2022,0.0784237288135593
+Æ: Danmarksdemokraterne,Assens,2022,0.0897991426436464
+Æ: Danmarksdemokraterne,Faaborg-Midtfyn,2022,0.0886867239000459
+Æ: Danmarksdemokraterne,Kerteminde,2022,0.0784314242701923
+Æ: Danmarksdemokraterne,Nyborg,2022,0.0839757962413451
+Æ: Danmarksdemokraterne,Odense,2022,0.0421634012640268
+Æ: Danmarksdemokraterne,Svendborg,2022,0.0632954983244055
+Æ: Danmarksdemokraterne,Nordfyns,2022,0.1123090780373576
+Æ: Danmarksdemokraterne,Langeland,2022,0.0999603079980128
+Æ: Danmarksdemokraterne,Ærø,2022,0.1530855182926829
+Æ: Danmarksdemokraterne,Haderslev,2022,0.0939649962172794
+Æ: Danmarksdemokraterne,Billund,2022,0.1250365536943253
+Æ: Danmarksdemokraterne,Sønderborg,2022,0.0934256731833271
+Æ: Danmarksdemokraterne,Tønder,2022,0.122453490548381
+Æ: Danmarksdemokraterne,Esbjerg,2022,0.0814959004691005
+Æ: Danmarksdemokraterne,Fanø,2022,0.0759308149405771
+Æ: Danmarksdemokraterne,Varde,2022,0.1208351505072342
+Æ: Danmarksdemokraterne,Vejen,2022,0.1103963412209187
+Æ: Danmarksdemokraterne,Aabenraa,2022,0.1169170286836467
+Æ: Danmarksdemokraterne,Fredericia,2022,0.0761828850537284
+Æ: Danmarksdemokraterne,Horsens,2022,0.0754386678216635
+Æ: Danmarksdemokraterne,Kolding,2022,0.0797151235288832
+Æ: Danmarksdemokraterne,Vejle,2022,0.0813310180591386
+Æ: Danmarksdemokraterne,Herning,2022,0.119686493755296
+Æ: Danmarksdemokraterne,Holstebro,2022,0.1056888934696569
+Æ: Danmarksdemokraterne,Lemvig,2022,0.1443068693783331
+Æ: Danmarksdemokraterne,Struer,2022,0.1205959996975196
+Æ: Danmarksdemokraterne,Syddjurs,2022,0.0893241635157308
+Æ: Danmarksdemokraterne,Norddjurs,2022,0.1053362615587846
+Æ: Danmarksdemokraterne,Favrskov,2022,0.0866447629111081
+Æ: Danmarksdemokraterne,Odder,2022,0.0679060038392797
+Æ: Danmarksdemokraterne,Randers,2022,0.0819910336902759
+Æ: Danmarksdemokraterne,Silkeborg,2022,0.073342085941164
+Æ: Danmarksdemokraterne,Samsø,2022,0.0697445945945945
+Æ: Danmarksdemokraterne,Skanderborg,2022,0.0629594399723443
+Æ: Danmarksdemokraterne,Aarhus,2022,0.0291093919786072
+Æ: Danmarksdemokraterne,Ikast-Brande,2022,0.1407630019749835
+Æ: Danmarksdemokraterne,Ringkøbing-Skjern,2022,0.143139232509623
+Æ: Danmarksdemokraterne,Hedensted,2022,0.1196405053781798
+Æ: Danmarksdemokraterne,Morsø,2022,0.1852150937450764
+Æ: Danmarksdemokraterne,Skive,2022,0.1810207938845641
+Æ: Danmarksdemokraterne,Thisted,2022,0.1506515530501008
+Æ: Danmarksdemokraterne,Viborg,2022,0.0989371725102353
+Æ: Danmarksdemokraterne,Brønderslev,2022,0.1468482854617763
+Æ: Danmarksdemokraterne,Frederikshavn,2022,0.1407612855498931
+Æ: Danmarksdemokraterne,Vesthimmerlands,2022,0.1732266842920959
+Æ: Danmarksdemokraterne,Læsø,2022,0.17028
+Æ: Danmarksdemokraterne,Rebild,2022,0.149165611280409
+Æ: Danmarksdemokraterne,Mariagerfjord,2022,0.1949057774716865
+Æ: Danmarksdemokraterne,Jammerbugt,2022,0.1569754350598592
+Æ: Danmarksdemokraterne,Aalborg,2022,0.0788518828058972
+Æ: Danmarksdemokraterne,Hjørring,2022,0.139549357577579
+A: Socialdemokratiet,Copenhagen,2022,0.1475490606881641
+A: Socialdemokratiet,Frederiksberg,2022,0.1627279020201395
+A: Socialdemokratiet,Ballerup,2022,0.2932325772975286
+A: Socialdemokratiet,Brøndby,2022,0.2752412729246414
+A: Socialdemokratiet,Dragør,2022,0.2086964007461867
+A: Socialdemokratiet,Gentofte,2022,0.1140675618500456
+A: Socialdemokratiet,Gladsaxe,2022,0.2301033221530106
+A: Socialdemokratiet,Glostrup,2022,0.266211750543647
+A: Socialdemokratiet,Herlev,2022,0.2727934189710814
+A: Socialdemokratiet,Albertslund,2022,0.263294568457791
+A: Socialdemokratiet,Hvidovre,2022,0.2630878425131469
+A: Socialdemokratiet,Høje-Taastrup,2022,0.2335513899950695
+A: Socialdemokratiet,Lyngby-Taarbæk,2022,0.1670580285705972
+A: Socialdemokratiet,Rødovre,2022,0.2673853378646775
+A: Socialdemokratiet,Ishøj,2022,0.241744130697862
+A: Socialdemokratiet,Tårnby,2022,0.3036752312936211
+A: Socialdemokratiet,Vallensbæk,2022,0.2231115326074229
+A: Socialdemokratiet,Furesø,2022,0.2121800015985932
+A: Socialdemokratiet,Allerød,2022,0.1882450947266802
+A: Socialdemokratiet,Fredensborg,2022,0.1928736811689919
+A: Socialdemokratiet,Helsingør,2022,0.2320885563106292
+A: Socialdemokratiet,Hillerød,2022,0.2048957540978601
+A: Socialdemokratiet,Hørsholm,2022,0.1197469438565915
+A: Socialdemokratiet,Rudersdal,2022,0.1281793613729075
+A: Socialdemokratiet,Egedal,2022,0.241602773187729
+A: Socialdemokratiet,Frederikssund,2022,0.2473761469780219
+A: Socialdemokratiet,Greve,2022,0.2208506269061334
+A: Socialdemokratiet,Køge,2022,0.2141968683425649
+A: Socialdemokratiet,Halsnæs,2022,0.2785085916146666
+A: Socialdemokratiet,Roskilde,2022,0.2168350128970707
+A: Socialdemokratiet,Solrød,2022,0.2034753319783197
+A: Socialdemokratiet,Gribskov,2022,0.206848681533941
+A: Socialdemokratiet,Odsherred,2022,0.2772738927303308
+A: Socialdemokratiet,Holbæk,2022,0.2612723653867681
+A: Socialdemokratiet,Faxe,2022,0.2490048397790055
+A: Socialdemokratiet,Kalundborg,2022,0.2515561938178781
+A: Socialdemokratiet,Ringsted,2022,0.2276229932627526
+A: Socialdemokratiet,Slagelse,2022,0.2540937541091387
+A: Socialdemokratiet,Stevns,2022,0.2300072246871068
+A: Socialdemokratiet,Sorø,2022,0.2484038826666667
+A: Socialdemokratiet,Lejre,2022,0.2139405393673014
+A: Socialdemokratiet,Lolland,2022,0.3387803336259877
+A: Socialdemokratiet,Næstved,2022,0.2723464899644674
+A: Socialdemokratiet,Guldborgsund,2022,0.2959846350151523
+A: Socialdemokratiet,Vordingborg,2022,0.2778128169406519
+A: Socialdemokratiet,Bornholm,2022,0.2880318952234205
+A: Socialdemokratiet,Middelfart,2022,0.2712744086946322
+A: Socialdemokratiet,Christiansø,2022,0.2980101694915254
+A: Socialdemokratiet,Assens,2022,0.2907686946946159
+A: Socialdemokratiet,Faaborg-Midtfyn,2022,0.2870040625479073
+A: Socialdemokratiet,Kerteminde,2022,0.3201076973425841
+A: Socialdemokratiet,Nyborg,2022,0.2937909396636993
+A: Socialdemokratiet,Odense,2022,0.2465916096994711
+A: Socialdemokratiet,Svendborg,2022,0.2920280101327281
+A: Socialdemokratiet,Nordfyns,2022,0.287634242770789
+A: Socialdemokratiet,Langeland,2022,0.2955082960755092
+A: Socialdemokratiet,Ærø,2022,0.2514976371951219
+A: Socialdemokratiet,Haderslev,2022,0.2518473112422454
+A: Socialdemokratiet,Billund,2022,0.2158979028697571
+A: Socialdemokratiet,Sønderborg,2022,0.2763637034304684
+A: Socialdemokratiet,Tønder,2022,0.2150037619314991
+A: Socialdemokratiet,Esbjerg,2022,0.2537561900877014
+A: Socialdemokratiet,Fanø,2022,0.2672918081494057
+A: Socialdemokratiet,Varde,2022,0.2058044370530516
+A: Socialdemokratiet,Vejen,2022,0.2125691787631735
+A: Socialdemokratiet,Aabenraa,2022,0.2373844174006188
+A: Socialdemokratiet,Fredericia,2022,0.2731938912406381
+A: Socialdemokratiet,Horsens,2022,0.2569004939454817
+A: Socialdemokratiet,Kolding,2022,0.2153722684394932
+A: Socialdemokratiet,Vejle,2022,0.2157541178805318
+A: Socialdemokratiet,Herning,2022,0.192108057326014
+A: Socialdemokratiet,Holstebro,2022,0.2289103452066842
+A: Socialdemokratiet,Lemvig,2022,0.2112867786356761
+A: Socialdemokratiet,Struer,2022,0.26007351784634
+A: Socialdemokratiet,Syddjurs,2022,0.244786088321324
+A: Socialdemokratiet,Norddjurs,2022,0.2838376486129458
+A: Socialdemokratiet,Favrskov,2022,0.2519251089684322
+A: Socialdemokratiet,Odder,2022,0.2583910505063878
+A: Socialdemokratiet,Randers,2022,0.2819501540459972
+A: Socialdemokratiet,Silkeborg,2022,0.2244025795287306
+A: Socialdemokratiet,Samsø,2022,0.2189013513513513
+A: Socialdemokratiet,Skanderborg,2022,0.2397812262333941
+A: Socialdemokratiet,Aarhus,2022,0.19268522137309
+A: Socialdemokratiet,Ikast-Brande,2022,0.1990073732718894
+A: Socialdemokratiet,Ringkøbing-Skjern,2022,0.1787665648047483
+A: Socialdemokratiet,Hedensted,2022,0.2191545705992828
+A: Socialdemokratiet,Morsø,2022,0.3056609106664565
+A: Socialdemokratiet,Skive,2022,0.261363139070061
+A: Socialdemokratiet,Thisted,2022,0.2805747144030463
+A: Socialdemokratiet,Viborg,2022,0.221467605681263
+A: Socialdemokratiet,Brønderslev,2022,0.3065753645603181
+A: Socialdemokratiet,Frederikshavn,2022,0.3258639596690229
+A: Socialdemokratiet,Vesthimmerlands,2022,0.2303410064727869
+A: Socialdemokratiet,Læsø,2022,0.2228868292682926
+A: Socialdemokratiet,Rebild,2022,0.2667121223077319
+A: Socialdemokratiet,Mariagerfjord,2022,0.276113850627487
+A: Socialdemokratiet,Jammerbugt,2022,0.301390044020241
+A: Socialdemokratiet,Aalborg,2022,0.2783455160108931
+A: Socialdemokratiet,Hjørring,2022,0.2938442632804868
+F: SF - Socialistisk Folkeparti,Copenhagen,2022,0.1000839588393019
+F: SF - Socialistisk Folkeparti,Frederiksberg,2022,0.0897995428430221
+F: SF - Socialistisk Folkeparti,Ballerup,2022,0.0801602688919795
+F: SF - Socialistisk Folkeparti,Brøndby,2022,0.0656530880420499
+F: SF - Socialistisk Folkeparti,Dragør,2022,0.0620922967189728
+F: SF - Socialistisk Folkeparti,Gentofte,2022,0.0548090943505466
+F: SF - Socialistisk Folkeparti,Gladsaxe,2022,0.0968529627854975
+F: SF - Socialistisk Folkeparti,Glostrup,2022,0.0659070984777881
+F: SF - Socialistisk Folkeparti,Herlev,2022,0.0759690818199075
+F: SF - Socialistisk Folkeparti,Albertslund,2022,0.1075484621537118
+F: SF - Socialistisk Folkeparti,Hvidovre,2022,0.0924682604483807
+F: SF - Socialistisk Folkeparti,Høje-Taastrup,2022,0.0664015701444987
+F: SF - Socialistisk Folkeparti,Lyngby-Taarbæk,2022,0.0928496843269034
+F: SF - Socialistisk Folkeparti,Rødovre,2022,0.0843830162863574
+F: SF - Socialistisk Folkeparti,Ishøj,2022,0.0583854578459055
+F: SF - Socialistisk Folkeparti,Tårnby,2022,0.0686273616296055
+F: SF - Socialistisk Folkeparti,Vallensbæk,2022,0.0613508254302774
+F: SF - Socialistisk Folkeparti,Furesø,2022,0.0807423227559747
+F: SF - Socialistisk Folkeparti,Allerød,2022,0.0802337999275974
+F: SF - Socialistisk Folkeparti,Fredensborg,2022,0.0688201106249483
+F: SF - Socialistisk Folkeparti,Helsingør,2022,0.0645389220314363
+F: SF - Socialistisk Folkeparti,Hillerød,2022,0.0818686548029669
+F: SF - Socialistisk Folkeparti,Hørsholm,2022,0.0357960413295156
+F: SF - Socialistisk Folkeparti,Rudersdal,2022,0.0584268842312561
+F: SF - Socialistisk Folkeparti,Egedal,2022,0.073491217041454
+F: SF - Socialistisk Folkeparti,Frederikssund,2022,0.0649982348901098
+F: SF - Socialistisk Folkeparti,Greve,2022,0.0563019586580819
+F: SF - Socialistisk Folkeparti,Køge,2022,0.1214053046442266
+F: SF - Socialistisk Folkeparti,Halsnæs,2022,0.0694248362642463
+F: SF - Socialistisk Folkeparti,Roskilde,2022,0.1079805554574043
+F: SF - Socialistisk Folkeparti,Solrød,2022,0.0739315514905149
+F: SF - Socialistisk Folkeparti,Gribskov,2022,0.0563351540721765
+F: SF - Socialistisk Folkeparti,Odsherred,2022,0.0720417678938516
+F: SF - Socialistisk Folkeparti,Holbæk,2022,0.0980941609761558
+F: SF - Socialistisk Folkeparti,Faxe,2022,0.076332167955801
+F: SF - Socialistisk Folkeparti,Kalundborg,2022,0.0629364812030075
+F: SF - Socialistisk Folkeparti,Ringsted,2022,0.0787525986525504
+F: SF - Socialistisk Folkeparti,Slagelse,2022,0.0637008547008547
+F: SF - Socialistisk Folkeparti,Stevns,2022,0.0854988874908946
+F: SF - Socialistisk Folkeparti,Sorø,2022,0.0854112053333333
+F: SF - Socialistisk Folkeparti,Lejre,2022,0.1184923652938303
+F: SF - Socialistisk Folkeparti,Lolland,2022,0.0490139219867051
+F: SF - Socialistisk Folkeparti,Næstved,2022,0.071641601843849
+F: SF - Socialistisk Folkeparti,Guldborgsund,2022,0.0664770189802753
+F: SF - Socialistisk Folkeparti,Vordingborg,2022,0.0848358456394538
+F: SF - Socialistisk Folkeparti,Bornholm,2022,0.0523634174032924
+F: SF - Socialistisk Folkeparti,Middelfart,2022,0.063714257789593
+F: SF - Socialistisk Folkeparti,Christiansø,2022,0.1254779661016948
+F: SF - Socialistisk Folkeparti,Assens,2022,0.0551869823416053
+F: SF - Socialistisk Folkeparti,Faaborg-Midtfyn,2022,0.0610387091828912
+F: SF - Socialistisk Folkeparti,Kerteminde,2022,0.0564863005629008
+F: SF - Socialistisk Folkeparti,Nyborg,2022,0.0640802472799208
+F: SF - Socialistisk Folkeparti,Odense,2022,0.0796101509093253
+F: SF - Socialistisk Folkeparti,Svendborg,2022,0.0728334828614401
+F: SF - Socialistisk Folkeparti,Nordfyns,2022,0.0496601644611446
+F: SF - Socialistisk Folkeparti,Langeland,2022,0.0555222056631892
+F: SF - Socialistisk Folkeparti,Ærø,2022,0.050814100609756
+F: SF - Socialistisk Folkeparti,Haderslev,2022,0.0405832228778937
+F: SF - Socialistisk Folkeparti,Billund,2022,0.0266533891702375
+F: SF - Socialistisk Folkeparti,Sønderborg,2022,0.0384302840280339
+F: SF - Socialistisk Folkeparti,Tønder,2022,0.0412272880404267
+F: SF - Socialistisk Folkeparti,Esbjerg,2022,0.053833577110224
+F: SF - Socialistisk Folkeparti,Fanø,2022,0.0839840831918505
+F: SF - Socialistisk Folkeparti,Varde,2022,0.0336030334275735
+F: SF - Socialistisk Folkeparti,Vejen,2022,0.0404126466494332
+F: SF - Socialistisk Folkeparti,Aabenraa,2022,0.0356015412996905
+F: SF - Socialistisk Folkeparti,Fredericia,2022,0.0542839465971995
+F: SF - Socialistisk Folkeparti,Horsens,2022,0.054433934791824
+F: SF - Socialistisk Folkeparti,Kolding,2022,0.0616445566436079
+F: SF - Socialistisk Folkeparti,Vejle,2022,0.0593714030561619
+F: SF - Socialistisk Folkeparti,Herning,2022,0.0449236819806211
+F: SF - Socialistisk Folkeparti,Holstebro,2022,0.0563815111037818
+F: SF - Socialistisk Folkeparti,Lemvig,2022,0.0466996895645944
+F: SF - Socialistisk Folkeparti,Struer,2022,0.0553513006654567
+F: SF - Socialistisk Folkeparti,Syddjurs,2022,0.0683372618962688
+F: SF - Socialistisk Folkeparti,Norddjurs,2022,0.0426796565389695
+F: SF - Socialistisk Folkeparti,Favrskov,2022,0.0648597939506009
+F: SF - Socialistisk Folkeparti,Odder,2022,0.0876393724763354
+F: SF - Socialistisk Folkeparti,Randers,2022,0.0527143820673804
+F: SF - Socialistisk Folkeparti,Silkeborg,2022,0.0712172480714181
+F: SF - Socialistisk Folkeparti,Samsø,2022,0.0942587837837837
+F: SF - Socialistisk Folkeparti,Skanderborg,2022,0.0832896315867449
+F: SF - Socialistisk Folkeparti,Aarhus,2022,0.098044207542023
+F: SF - Socialistisk Folkeparti,Ikast-Brande,2022,0.0370173798551678
+F: SF - Socialistisk Folkeparti,Ringkøbing-Skjern,2022,0.0397594981341638
+F: SF - Socialistisk Folkeparti,Hedensted,2022,0.0356037903363496
+F: SF - Socialistisk Folkeparti,Morsø,2022,0.0303750118166062
+F: SF - Socialistisk Folkeparti,Skive,2022,0.0525496703836173
+F: SF - Socialistisk Folkeparti,Thisted,2022,0.0342633689240647
+F: SF - Socialistisk Folkeparti,Viborg,2022,0.0634256667733728
+F: SF - Socialistisk Folkeparti,Brønderslev,2022,0.0410394211224038
+F: SF - Socialistisk Folkeparti,Frederikshavn,2022,0.033301287741794
+F: SF - Socialistisk Folkeparti,Vesthimmerlands,2022,0.0635566368857689
+F: SF - Socialistisk Folkeparti,Læsø,2022,0.0422239024390243
+F: SF - Socialistisk Folkeparti,Rebild,2022,0.0530781726150508
+F: SF - Socialistisk Folkeparti,Mariagerfjord,2022,0.040716069788797
+F: SF - Socialistisk Folkeparti,Jammerbugt,2022,0.0349260747932693
+F: SF - Socialistisk Folkeparti,Aalborg,2022,0.0587570006573387
+F: SF - Socialistisk Folkeparti,Hjørring,2022,0.0400535101560347
+V: Venstre,Copenhagen,2022,0.0652223862535622
+V: Venstre,Frederiksberg,2022,0.0924065391981218
+V: Venstre,Ballerup,2022,0.0745546556827501
+V: Venstre,Brøndby,2022,0.0535431640290236
+V: Venstre,Dragør,2022,0.1190183583891144
+V: Venstre,Gentofte,2022,0.1501613556906494
+V: Venstre,Gladsaxe,2022,0.0790862482031623
+V: Venstre,Glostrup,2022,0.0855658123640881
+V: Venstre,Herlev,2022,0.0664601657913053
+V: Venstre,Albertslund,2022,0.0398327637606339
+V: Venstre,Hvidovre,2022,0.0656662745640741
+V: Venstre,Høje-Taastrup,2022,0.0720405772366973
+V: Venstre,Lyngby-Taarbæk,2022,0.1119500450961566
+V: Venstre,Rødovre,2022,0.0642952200203027
+V: Venstre,Ishøj,2022,0.0580871924162968
+V: Venstre,Tårnby,2022,0.08067850186658
+V: Venstre,Vallensbæk,2022,0.0854840885142254
+V: Venstre,Furesø,2022,0.1261331788026536
+V: Venstre,Allerød,2022,0.1634002835766863
+V: Venstre,Fredensborg,2022,0.1277783703459092
+V: Venstre,Helsingør,2022,0.0895867899569434
+V: Venstre,Hillerød,2022,0.1243981685540734
+V: Venstre,Hørsholm,2022,0.1843245611851113
+V: Venstre,Rudersdal,2022,0.1652979153186101
+V: Venstre,Egedal,2022,0.1369421294633235
+V: Venstre,Frederikssund,2022,0.1230934890109889
+V: Venstre,Greve,2022,0.1619286479159606
+V: Venstre,Køge,2022,0.1195097571367702
+V: Venstre,Halsnæs,2022,0.091444861017998
+V: Venstre,Roskilde,2022,0.1061560934242606
+V: Venstre,Solrød,2022,0.1508370189701896
+V: Venstre,Gribskov,2022,0.1078961425450161
+V: Venstre,Odsherred,2022,0.0912014016071762
+V: Venstre,Holbæk,2022,0.0979256464793461
+V: Venstre,Faxe,2022,0.096413794475138
+V: Venstre,Kalundborg,2022,0.1086074419381787
+V: Venstre,Ringsted,2022,0.1057363570741097
+V: Venstre,Slagelse,2022,0.1180071005917159
+V: Venstre,Stevns,2022,0.106295914177869
+V: Venstre,Sorø,2022,0.099057312
+V: Venstre,Lejre,2022,0.1159906994410982
+V: Venstre,Lolland,2022,0.0782599774238053
+V: Venstre,Næstved,2022,0.0903570536828963
+V: Venstre,Guldborgsund,2022,0.0827974639800095
+V: Venstre,Vordingborg,2022,0.0790239830036221
+V: Venstre,Bornholm,2022,0.1533500081096423
+V: Venstre,Middelfart,2022,0.1100672231127095
+V: Venstre,Christiansø,2022,0.0313694915254236
+V: Venstre,Assens,2022,0.1307496755417469
+V: Venstre,Faaborg-Midtfyn,2022,0.1114235781082323
+V: Venstre,Kerteminde,2022,0.0849253894488807
+V: Venstre,Nyborg,2022,0.1105860929772502
+V: Venstre,Odense,2022,0.0885371469108732
+V: Venstre,Svendborg,2022,0.0820132332374593
+V: Venstre,Nordfyns,2022,0.12001971355443
+V: Venstre,Langeland,2022,0.1135866368604073
+V: Venstre,Ærø,2022,0.0812596798780487
+V: Venstre,Haderslev,2022,0.1379930155848085
+V: Venstre,Billund,2022,0.1958397286066744
+V: Venstre,Sønderborg,2022,0.1255110660272962
+V: Venstre,Tønder,2022,0.1257931311997005
+V: Venstre,Esbjerg,2022,0.1213849946097141
+V: Venstre,Fanø,2022,0.0789987266553479
+V: Venstre,Varde,2022,0.1970076833527357
+V: Venstre,Vejen,2022,0.1662826009146947
+V: Venstre,Aabenraa,2022,0.1311674393001666
+V: Venstre,Fredericia,2022,0.0910381504395961
+V: Venstre,Horsens,2022,0.1113589140571723
+V: Venstre,Kolding,2022,0.1245981385320276
+V: Venstre,Vejle,2022,0.1488547330819606
+V: Venstre,Herning,2022,0.1842043805032605
+V: Venstre,Holstebro,2022,0.2095446240105541
+V: Venstre,Lemvig,2022,0.2194954389875029
+V: Venstre,Struer,2022,0.1732961282516636
+V: Venstre,Syddjurs,2022,0.1120828850681315
+V: Venstre,Norddjurs,2022,0.0978045574636723
+V: Venstre,Favrskov,2022,0.1326611411966714
+V: Venstre,Odder,2022,0.121418256437413
+V: Venstre,Randers,2022,0.116395543490932
+V: Venstre,Silkeborg,2022,0.1474018323548913
+V: Venstre,Samsø,2022,0.0794121621621621
+V: Venstre,Skanderborg,2022,0.1286620178774259
+V: Venstre,Aarhus,2022,0.1001275606255058
+V: Venstre,Ikast-Brande,2022,0.1660414746543778
+V: Venstre,Ringkøbing-Skjern,2022,0.2139655628360708
+V: Venstre,Hedensted,2022,0.1592166194297422
+V: Venstre,Morsø,2022,0.1282866551126516
+V: Venstre,Skive,2022,0.1164757696893189
+V: Venstre,Thisted,2022,0.1429848876278652
+V: Venstre,Viborg,2022,0.1254205718329317
+V: Venstre,Brønderslev,2022,0.1213910782147591
+V: Venstre,Frederikshavn,2022,0.1032747136829414
+V: Venstre,Vesthimmerlands,2022,0.1454606846567599
+V: Venstre,Læsø,2022,0.1266717073170731
+V: Venstre,Rebild,2022,0.1346773203863436
+V: Venstre,Mariagerfjord,2022,0.0975329124579123
+V: Venstre,Jammerbugt,2022,0.1312257415559303
+V: Venstre,Aalborg,2022,0.1097731242370175
+V: Venstre,Hjørring,2022,0.1132792746762842
+I: Liberal Alliance,Copenhagen,2022,0.0693322836325859
+I: Liberal Alliance,Frederiksberg,2022,0.0813571971335021
+I: Liberal Alliance,Ballerup,2022,0.0522797189829178
+I: Liberal Alliance,Brøndby,2022,0.0395735016854253
+I: Liberal Alliance,Dragør,2022,0.0934796115439482
+I: Liberal Alliance,Gentofte,2022,0.1286726790923463
+I: Liberal Alliance,Gladsaxe,2022,0.0608100143747005
+I: Liberal Alliance,Glostrup,2022,0.0613074634979807
+I: Liberal Alliance,Herlev,2022,0.050509726001392
+I: Liberal Alliance,Albertslund,2022,0.03482521631644
+I: Liberal Alliance,Hvidovre,2022,0.0496583587046774
+I: Liberal Alliance,Høje-Taastrup,2022,0.0529523874540144
+I: Liberal Alliance,Lyngby-Taarbæk,2022,0.0911666084780774
+I: Liberal Alliance,Rødovre,2022,0.0514861279074899
+I: Liberal Alliance,Ishøj,2022,0.0391473376361435
+I: Liberal Alliance,Tårnby,2022,0.0539769558513227
+I: Liberal Alliance,Vallensbæk,2022,0.063676923076923
+I: Liberal Alliance,Furesø,2022,0.0780366717288785
+I: Liberal Alliance,Allerød,2022,0.0882018462652346
+I: Liberal Alliance,Fredensborg,2022,0.0836483612647568
+I: Liberal Alliance,Helsingør,2022,0.0705677595061471
+I: Liberal Alliance,Hillerød,2022,0.0756461097036109
+I: Liberal Alliance,Hørsholm,2022,0.1524811153989791
+I: Liberal Alliance,Rudersdal,2022,0.1255949978899986
+I: Liberal Alliance,Egedal,2022,0.0760012931963503
+I: Liberal Alliance,Frederikssund,2022,0.0621268269230769
+I: Liberal Alliance,Greve,2022,0.071566424940698
+I: Liberal Alliance,Køge,2022,0.0653286908819769
+I: Liberal Alliance,Halsnæs,2022,0.04271969986076
+I: Liberal Alliance,Roskilde,2022,0.0743736581746227
+I: Liberal Alliance,Solrød,2022,0.1016484485094851
+I: Liberal Alliance,Gribskov,2022,0.0635600580125065
+I: Liberal Alliance,Odsherred,2022,0.0402506821154923
+I: Liberal Alliance,Holbæk,2022,0.0547110399641777
+I: Liberal Alliance,Faxe,2022,0.0557375071823203
+I: Liberal Alliance,Kalundborg,2022,0.0414968788638262
+I: Liberal Alliance,Ringsted,2022,0.0518088161693936
+I: Liberal Alliance,Slagelse,2022,0.0502679158448388
+I: Liberal Alliance,Stevns,2022,0.0530352360770809
+I: Liberal Alliance,Sorø,2022,0.0506919306666666
+I: Liberal Alliance,Lejre,2022,0.063215171740192
+I: Liberal Alliance,Lolland,2022,0.028499485764455
+I: Liberal Alliance,Næstved,2022,0.0579796408335733
+I: Liberal Alliance,Guldborgsund,2022,0.03679162900739
+I: Liberal Alliance,Vordingborg,2022,0.0458009473390916
+I: Liberal Alliance,Bornholm,2022,0.0294916592328277
+I: Liberal Alliance,Middelfart,2022,0.0634445678095312
+I: Liberal Alliance,Christiansø,2022,0.0156847457627117
+I: Liberal Alliance,Assens,2022,0.0436385338419789
+I: Liberal Alliance,Faaborg-Midtfyn,2022,0.0448760539629004
+I: Liberal Alliance,Kerteminde,2022,0.0458496334598769
+I: Liberal Alliance,Nyborg,2022,0.0486611968348169
+I: Liberal Alliance,Odense,2022,0.0625289436347219
+I: Liberal Alliance,Svendborg,2022,0.0498169380162017
+I: Liberal Alliance,Nordfyns,2022,0.0454835702227304
+I: Liberal Alliance,Langeland,2022,0.0335573770491802
+I: Liberal Alliance,Ærø,2022,0.0306599847560975
+I: Liberal Alliance,Haderslev,2022,0.052174837343017
+I: Liberal Alliance,Billund,2022,0.0564681210232436
+I: Liberal Alliance,Sønderborg,2022,0.0531527111766875
+I: Liberal Alliance,Tønder,2022,0.0458336889387984
+I: Liberal Alliance,Esbjerg,2022,0.0666448471781124
+I: Liberal Alliance,Fanø,2022,0.0540719439728353
+I: Liberal Alliance,Varde,2022,0.0575607517046398
+I: Liberal Alliance,Vejen,2022,0.0647475044740504
+I: Liberal Alliance,Aabenraa,2022,0.0547000297548202
+I: Liberal Alliance,Fredericia,2022,0.0640020970367958
+I: Liberal Alliance,Horsens,2022,0.0836191348581749
+I: Liberal Alliance,Kolding,2022,0.0786016997574341
+I: Liberal Alliance,Vejle,2022,0.0709575312562015
+I: Liberal Alliance,Herning,2022,0.081268024905132
+I: Liberal Alliance,Holstebro,2022,0.0702712456024625
+I: Liberal Alliance,Lemvig,2022,0.0524940380482368
+I: Liberal Alliance,Struer,2022,0.0594897156684814
+I: Liberal Alliance,Syddjurs,2022,0.0665348933437967
+I: Liberal Alliance,Norddjurs,2022,0.0798001981505944
+I: Liberal Alliance,Favrskov,2022,0.071674877823273
+I: Liberal Alliance,Odder,2022,0.0647138412656384
+I: Liberal Alliance,Randers,2022,0.0723233117391376
+I: Liberal Alliance,Silkeborg,2022,0.0750447705917551
+I: Liberal Alliance,Samsø,2022,0.0455756756756756
+I: Liberal Alliance,Skanderborg,2022,0.0880016346486245
+I: Liberal Alliance,Aarhus,2022,0.0915063923408174
+I: Liberal Alliance,Ikast-Brande,2022,0.0669706385780117
+I: Liberal Alliance,Ringkøbing-Skjern,2022,0.0605715041283459
+I: Liberal Alliance,Hedensted,2022,0.0826831825166467
+I: Liberal Alliance,Morsø,2022,0.0394677485426184
+I: Liberal Alliance,Skive,2022,0.0531096500455852
+I: Liberal Alliance,Thisted,2022,0.0501330508474575
+I: Liberal Alliance,Viborg,2022,0.056071551564369
+I: Liberal Alliance,Brønderslev,2022,0.0539557622624834
+I: Liberal Alliance,Frederikshavn,2022,0.0477122390267959
+I: Liberal Alliance,Vesthimmerlands,2022,0.0416301622755036
+I: Liberal Alliance,Læsø,2022,0.0346097560975609
+I: Liberal Alliance,Rebild,2022,0.0600945147461391
+I: Liberal Alliance,Mariagerfjord,2022,0.0481742806856443
+I: Liberal Alliance,Jammerbugt,2022,0.0490570041551816
+I: Liberal Alliance,Aalborg,2022,0.0768049582120387
+I: Liberal Alliance,Hjørring,2022,0.0488171763468329
+Did not vote,Frederiksberg,2022,0.1254
+Did not vote,Gentofte,2022,0.104
+Did not vote,Albertslund,2022,0.2173999999999999
+Did not vote,Rødovre,2022,0.1916
+Did not vote,Furesø,2022,0.1091999999999999
+Did not vote,Helsingør,2022,0.1639
+Did not vote,Egedal,2022,0.1154999999999999
+Did not vote,Halsnæs,2022,0.1740999999999999
+Did not vote,Kalundborg,2022,0.1888999999999999
+Did not vote,Sorø,2022,0.1611
+Did not vote,Guldborgsund,2022,0.1825
+Did not vote,Middelfart,2022,0.1376999999999999
+Did not vote,Kerteminde,2022,0.1446999999999999
+Did not vote,Nordfyns,2022,0.1572
+Did not vote,Haderslev,2022,0.1690999999999999
+Did not vote,Esbjerg,2022,0.1812
+Did not vote,Aabenraa,2022,0.1770999999999999
+Did not vote,Vejle,2022,0.153
+Did not vote,Struer,2022,0.1448999999999999
+Did not vote,Odder,2022,0.1231999999999999
+Did not vote,Skanderborg,2022,0.1040999999999999
+Did not vote,Hedensted,2022,0.1382999999999999
+Did not vote,Viborg,2022,0.1507999999999999
+Did not vote,Læsø,2022,0.1485999999999999
+Did not vote,Aalborg,2022,0.1640999999999999
+Did not vote,Ballerup,2022,0.1726999999999999
+Did not vote,Gladsaxe,2022,0.1678
+Did not vote,Hvidovre,2022,0.1854
+Did not vote,Ishøj,2022,0.2606
+Did not vote,Hillerød,2022,0.1362000000000001
+Did not vote,Frederikssund,2022,0.1554000000000001
+Did not vote,Roskilde,2022,0.1321999999999999
+Did not vote,Odsherred,2022,0.1731999999999999
+Did not vote,Ringsted,2022,0.1693000000000001
+Did not vote,Lejre,2022,0.1134
+Did not vote,Vordingborg,2022,0.1698
+Did not vote,Christiansø,2022,0.0745999999999998
+Did not vote,Nyborg,2022,0.1618999999999999
+Did not vote,Langeland,2022,0.1812
+Did not vote,Billund,2022,0.1604999999999999
+Did not vote,Fanø,2022,0.0965
+Did not vote,Fredericia,2022,0.1868
+Did not vote,Herning,2022,0.147
+Did not vote,Syddjurs,2022,0.1435999999999999
+Did not vote,Randers,2022,0.1789
+Did not vote,Aarhus,2022,0.142
+Did not vote,Morsø,2022,0.1635999999999999
+Did not vote,Brønderslev,2022,0.1503
+Did not vote,Rebild,2022,0.1179000000000001
+Did not vote,Hjørring,2022,0.1648999999999999
+Did not vote,Brøndby,2022,0.243
+Did not vote,Glostrup,2022,0.1887000000000001
+Did not vote,Høje-Taastrup,2022,0.2048999999999999
+Did not vote,Tårnby,2022,0.1681
+Did not vote,Allerød,2022,0.0829
+Did not vote,Hørsholm,2022,0.1056
+Did not vote,Greve,2022,0.1595999999999999
+Did not vote,Solrød,2022,0.1220999999999999
+Did not vote,Holbæk,2022,0.1637
+Did not vote,Slagelse,2022,0.2033
+Did not vote,Lolland,2022,0.2236
+Did not vote,Assens,2022,0.1562
+Did not vote,Odense,2022,0.1735999999999999
+Did not vote,Ærø,2022,0.1561
+Did not vote,Sønderborg,2022,0.1759999999999999
+Did not vote,Varde,2022,0.1495999999999999
+Did not vote,Horsens,2022,0.1656999999999999
+Did not vote,Holstebro,2022,0.1448999999999999
+Did not vote,Norddjurs,2022,0.1855
+Did not vote,Silkeborg,2022,0.1298999999999999
+Did not vote,Ikast-Brande,2022,0.1583999999999999
+Did not vote,Skive,2022,0.1594999999999999
+Did not vote,Frederikshavn,2022,0.1743000000000001
+Did not vote,Mariagerfjord,2022,0.1634
+Did not vote,Copenhagen,2022,0.1664
+Did not vote,Dragør,2022,0.1117
+Did not vote,Herlev,2022,0.1920999999999999
+Did not vote,Lyngby-Taarbæk,2022,0.1234999999999999
+Did not vote,Vallensbæk,2022,0.1722
+Did not vote,Fredensborg,2022,0.1406
+Did not vote,Rudersdal,2022,0.0993999999999999
+Did not vote,Køge,2022,0.1526
+Did not vote,Gribskov,2022,0.1551
+Did not vote,Faxe,2022,0.1709
+Did not vote,Stevns,2022,0.1489
+Did not vote,Næstved,2022,0.17
+Did not vote,Bornholm,2022,0.1837
+Did not vote,Faaborg-Midtfyn,2022,0.1524999999999999
+Did not vote,Svendborg,2022,0.1515
+Did not vote,Tønder,2022,0.1795999999999999
+Did not vote,Vejen,2022,0.1559999999999999
+Did not vote,Kolding,2022,0.1626
+Did not vote,Lemvig,2022,0.1334
+Did not vote,Favrskov,2022,0.118
+Did not vote,Samsø,2022,0.1312999999999999
+Did not vote,Ringkøbing-Skjern,2022,0.1424999999999999
+Did not vote,Thisted,2022,0.1548999999999999
+Did not vote,Vesthimmerlands,2022,0.1735
+Did not vote,Jammerbugt,2022,0.1518999999999999

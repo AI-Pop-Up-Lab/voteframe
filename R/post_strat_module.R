@@ -18,7 +18,8 @@ default_post_strat_config <- function() {
       predicted_vote = c("vote_2026")
     ),
     frame_aliases = list(
-      past_vote = c("vote_in_2022", "party")
+      past_vote = c("vote_in_2022", "party"),
+      expected_N_raked = c("N", "expected_N")
     ),
     education_level_recode = c(
       "H1010 Primary school through to 6th grade" = "H1020 Primary school 7th-9th grade"
@@ -595,6 +596,17 @@ build_quartile_table <- function(share_draws, parties, mrp_estimates) {
     arrange(desc(point_estimate))
 }
 
+build_share_draws_quartiles <- function(share_draws, parties, mrp_estimates) {
+  tibble(
+    party = parties,
+    lower_2_5 = apply(share_draws, 2, quantile, probs = 0.025, na.rm = TRUE),
+    upper_97_5 = apply(share_draws, 2, quantile, probs = 0.975, na.rm = TRUE)
+  ) %>%
+    left_join(mrp_estimates, by = "party") %>%
+    select(party, point_estimate, lower_2_5, upper_97_5) %>%
+    arrange(desc(point_estimate))
+}
+
 build_extended_frame <- function(prob_mat, frame_pred) {
   frame_for_join <- frame_pred %>%
     transmute(
@@ -779,6 +791,7 @@ run_post_stratification <- function(survey, frame, config = list()) {
 
   share_draws <- compute_share_draws(pi_draws, parties, weights)
   quartile_table <- build_quartile_table(share_draws, parties, mrp_estimates)
+  share_draws_quartiles <- build_share_draws_quartiles(share_draws, parties, mrp_estimates)
   extended_frame <- build_extended_frame(prob_mat, frame_pred)
   stage_diagnostics <- compute_stage_diagnostics(sb_fits, parties)
   aggregate_counts <- compute_aggregate_counts(extended_frame)
@@ -793,6 +806,7 @@ run_post_stratification <- function(survey, frame, config = list()) {
   list(
     point_estimates = mrp_estimates,
     quartile_table = quartile_table,
+    share_draws_quartiles = share_draws_quartiles,
     extended_frame = extended_frame,
     stage_diagnostics = stage_diagnostics,
     aggregate_counts = aggregate_counts,
@@ -817,6 +831,7 @@ write_post_strat_outputs <- function(result, output_dir) {
 
   write_csv(result$point_estimates, file.path(output_dir, "mrp_point_estimates.csv"))
   write_csv(result$quartile_table, file.path(output_dir, "mrp_quartile_table.csv"))
+  write_csv(result$share_draws_quartiles, file.path(output_dir, "mrp_share_draws_quartiles.csv"))
   write_csv(result$extended_frame, file.path(output_dir, "mrp_extended_frame_predictions.csv"))
   write_csv(result$stage_diagnostics, file.path(output_dir, "mrp_stage_diagnostics.csv"))
   write_csv(result$aggregate_counts, file.path(output_dir, "mrp_aggregate_counts.csv"))

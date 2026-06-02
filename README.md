@@ -89,6 +89,7 @@ Written outputs:
 
 - `mrp_point_estimates.csv`
 - `mrp_quartile_table.csv`
+- `mrp_share_draws_quartiles.csv`
 - `mrp_extended_frame_predictions.csv`
 - `mrp_stage_diagnostics.csv`
 - `mrp_aggregate_counts.csv`
